@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/ManuelGodel07/massivecol/static/css/main.63a73ff9.css",
+    "main.js": "/ManuelGodel07/massivecol/static/js/main.6f6bb554.js",
+    "reactPlayerYouTube.js": "/ManuelGodel07/massivecol/static/js/reactPlayerYouTube.66ae0257.chunk.js",
+    "reactPlayerSoundCloud.js": "/ManuelGodel07/massivecol/static/js/reactPlayerSoundCloud.71a0cfdf.chunk.js",
+    "reactPlayerVimeo.js": "/ManuelGodel07/massivecol/static/js/reactPlayerVimeo.6240297e.chunk.js",
+    "reactPlayerMux.js": "/ManuelGodel07/massivecol/static/js/reactPlayerMux.ed37af12.chunk.js",
+    "reactPlayerFacebook.js": "/ManuelGodel07/massivecol/static/js/reactPlayerFacebook.9faea4b3.chunk.js",
+    "reactPlayerStreamable.js": "/ManuelGodel07/massivecol/static/js/reactPlayerStreamable.b0780c77.chunk.js",
+    "reactPlayerWistia.js": "/ManuelGodel07/massivecol/static/js/reactPlayerWistia.d2a419f6.chunk.js",
+    "reactPlayerTwitch.js": "/ManuelGodel07/massivecol/static/js/reactPlayerTwitch.0136a507.chunk.js",
+    "reactPlayerDailyMotion.js": "/ManuelGodel07/massivecol/static/js/reactPlayerDailyMotion.0f378d5a.chunk.js",
+    "reactPlayerMixcloud.js": "/ManuelGodel07/massivecol/static/js/reactPlayerMixcloud.998bf89f.chunk.js",
+    "reactPlayerVidyard.js": "/ManuelGodel07/massivecol/static/js/reactPlayerVidyard.ed233dd3.chunk.js",
+    "reactPlayerKaltura.js": "/ManuelGodel07/massivecol/static/js/reactPlayerKaltura.d6a4f742.chunk.js",
+    "reactPlayerFilePlayer.js": "/ManuelGodel07/massivecol/static/js/reactPlayerFilePlayer.67f97ade.chunk.js",
+    "reactPlayerPreview.js": "/ManuelGodel07/massivecol/static/js/reactPlayerPreview.ab2dd0dd.chunk.js",
+    "static/js/488.878f4d5e.chunk.js": "/ManuelGodel07/massivecol/static/js/488.878f4d5e.chunk.js",
+    "index.html": "/ManuelGodel07/massivecol/index.html",
+    "main.63a73ff9.css.map": "/ManuelGodel07/massivecol/static/css/main.63a73ff9.css.map",
+    "main.6f6bb554.js.map": "/ManuelGodel07/massivecol/static/js/main.6f6bb554.js.map",
+    "reactPlayerYouTube.66ae0257.chunk.js.map": "/ManuelGodel07/massivecol/static/js/reactPlayerYouTube.66ae0257.chunk.js.map",
+    "reactPlayerSoundCloud.71a0cfdf.chunk.js.map": "/ManuelGodel07/massivecol/static/js/reactPlayerSoundCloud.71a0cfdf.chunk.js.map",
+    "reactPlayerVimeo.6240297e.chunk.js.map": "/ManuelGodel07/massivecol/static/js/reactPlayerVimeo.6240297e.chunk.js.map",
+    "reactPlayerMux.ed37af12.chunk.js.map": "/ManuelGodel07/massivecol/static/js/reactPlayerMux.ed37af12.chunk.js.map",
+    "reactPlayerFacebook.9faea4b3.chunk.js.map": "/ManuelGodel07/massivecol/static/js/reactPlayerFacebook.9faea4b3.chunk.js.map",
+    "reactPlayerStreamable.b0780c77.chunk.js.map": "/ManuelGodel07/massivecol/static/js/reactPlayerStreamable.b0780c77.chunk.js.map",
+    "reactPlayerWistia.d2a419f6.chunk.js.map": "/ManuelGodel07/massivecol/static/js/reactPlayerWistia.d2a419f6.chunk.js.map",
+    "reactPlayerTwitch.0136a507.chunk.js.map": "/ManuelGodel07/massivecol/static/js/reactPlayerTwitch.0136a507.chunk.js.map",
+    "reactPlayerDailyMotion.0f378d5a.chunk.js.map": "/ManuelGodel07/massivecol/static/js/reactPlayerDailyMotion.0f378d5a.chunk.js.map",
+    "reactPlayerMixcloud.998bf89f.chunk.js.map": "/ManuelGodel07/massivecol/static/js/reactPlayerMixcloud.998bf89f.chunk.js.map",
+    "reactPlayerVidyard.ed233dd3.chunk.js.map": "/ManuelGodel07/massivecol/static/js/reactPlayerVidyard.ed233dd3.chunk.js.map",
+    "reactPlayerKaltura.d6a4f742.chunk.js.map": "/ManuelGodel07/massivecol/static/js/reactPlayerKaltura.d6a4f742.chunk.js.map",
+    "reactPlayerFilePlayer.67f97ade.chunk.js.map": "/ManuelGodel07/massivecol/static/js/reactPlayerFilePlayer.67f97ade.chunk.js.map",
+    "reactPlayerPreview.ab2dd0dd.chunk.js.map": "/ManuelGodel07/massivecol/static/js/reactPlayerPreview.ab2dd0dd.chunk.js.map",
+    "488.878f4d5e.chunk.js.map": "/ManuelGodel07/massivecol/static/js/488.878f4d5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63a73ff9.css",
+    "static/js/main.6f6bb554.js"
+  ]
+}
